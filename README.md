@@ -1,12 +1,12 @@
 # rogwiki
 Wiki for klava.org
 
-## [Клавиатуры](keyboardslist.md)
+## [Клавиатуры](keyboards.md)
 
-## [Авторы](authorslist.md)
+## [Авторы](authors.md)
 
 ## [Документация](docs.md)
 
 ## [Сообщества](community.md)
 
-## [Прошивки и контроллеры](ware.md)
+## [Прошивки и контроллеры](wares.md)
