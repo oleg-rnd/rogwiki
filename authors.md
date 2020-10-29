@@ -1,11 +1,11 @@
 ## Авторы
 
-**[optozorax](Autors/ .md)**
+**[optozorax](Autors/.md)**
  
-**[Steve Key](Autors/ .md)**
+**[Steve Key](Autors/.md)**
 
-**[bouncepaw](Autors/ .md)**
+**[bouncepaw](Autors/.md)**
 
-**[O1af](Autors/ .md)**
+**[O1af](Autors/.md)**
 
-**[Kanazei](Autors/ .md)**
+**[Kanazei](Autors/.md)**
