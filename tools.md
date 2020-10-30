@@ -11,7 +11,7 @@
 - имеет несколько ограниченный набор клавиатур для редактирования
 
 
-Библиотеки от сообщества klava.org:
+### Библиотеки от сообщества klava.org:
 
 **[rusmap.h](https://github.com/klavarog/qmk_bonus/blob/master/rusmap.h)** – для более удобной русификации прошивки by optozorax 
 [инфо](https://github.com/klavarog/qmk_bonus/blob/master/doc/rusmap.h.ru.md)
@@ -20,6 +20,7 @@
 [инфо](https://github.com/klavarog/qmk_bonus/blob/master/doc/chordgen.ru.md)
 
 
+### Ещё:
 
 [Тренажёр **klava.org** для увеличения скорости набора by Volka](https://klava.org)
 
