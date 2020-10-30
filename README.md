@@ -7,7 +7,7 @@ Wiki for klava.org community
 
 ## [Документация](docs.md)
 
-## [Сообщества](community.md)
+## [Сообщество](community.md)
 
 ## [Прошивки и контроллеры](wares.md)
 
@@ -15,4 +15,5 @@ Wiki for klava.org community
 
 ---
  
-## [Наполнение Wiki!](wikifulling.md)
+## [Наполнение Wiki!](wikifulling.md)  
+
