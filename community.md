@@ -7,7 +7,7 @@
 **МехКульт** – те, кто восновном покупает
 
 т.е. собрано много инфы, где, и что можно купить  
-[сайт](https://rumech.guide) [его версия в GitHab](https://github.com/Flumeded/ru_mech/tree/master/docs) [Discord](https://discord.com/channels/667761489872158729/667769841272356866)&#10)  
+[сайт](https://rumech.guide) [его версия в GitHab](https://github.com/Flumeded/ru_mech/tree/master/docs) [Discord](https://discord.com/channels/667761489872158729/667769841272356866)  
 [+ краткие основы QMK, пример с 9key](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md)
  
    
