@@ -5,7 +5,7 @@ Wiki for klava.org
 
 ## [Авторы](authors.md)
 
-## [Документация](docs.md)
+## [Документация](doqilinx.md)
 
 ## [Сообщества](community.md)
 
