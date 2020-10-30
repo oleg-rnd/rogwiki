@@ -1,6 +1,6 @@
 ## Инструменты
 
-[Конфигуратор ракладок для QMK](https://config.qmk.fm/)
+[Конфигуратор ракладок для QMK](https://config.qmk.fm/) 
 позволяет модернизировать любую расклаку QMK, но не позволяет создать новую 
 
 Ещё один конфигуратор прошивки [Caniusevia](https://caniusevia.com)
@@ -21,4 +21,4 @@
 
 [Клавагонки - соревнования в скорости набора текста](https://klavagonki.ru)
 
-Модернизированная версия [визулизатора раскладок Keyboard Layout Editor](https://kle.klava.org)
+Модернизированная версия [визуализатора раскладок Keyboard Layout Editor](https://kle.klava.org)
