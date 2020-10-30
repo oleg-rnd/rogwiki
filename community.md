@@ -10,8 +10,8 @@
 ! НО тоже написали про [краткие основы QMK!](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md)
  
    
-[**Geekhack**](https://geekhack.org/)** – Американский форум энтузиастов клавиатур
+**[Geekhack](https://geekhack.org/)** – Американский форум энтузиастов клавиатур
 
-[**Deskthority**](https://deskthority.net/)** – Европейский форум о механических клавиатурах, с огромным разделом Workshop о тнокостях разработки
+**[Deskthority](https://deskthority.net/)** – Европейский форум о механических клавиатурах, с огромным разделом Workshop о тнокостях разработки
 
 Ветка про все механические клавиатуры на [**reddit**](https://www.reddit.com/r/MechanicalKeyboards/)
