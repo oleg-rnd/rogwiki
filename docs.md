@@ -10,21 +10,22 @@
 
 #### Статьи о работе с прошивкой [RU]:
 
-[Сводное описание возможностей, свойств и механизмов работы QMK](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md) by Flumeded
+Сводное, но довольно подробное [описание](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md) возможностей, свойств и механизмов работы QMK, сделанное участником сообщества Flumeded.  
 
-В деталях:
+Более детальные материалы про:  
 
-- [Основные элементы прошивки](https://github.com/qmk/qmk_firmware/blob/master/docs/ru-ru/getting_started_introduction.md)  
-- [Установка инструментов для сборки прошивки](https://docs.qmk.fm/#/ru-ru/getting_started_build_tools) [исх*](https://github.com/qmk/qmk_firmware/blob/master/docs/ru-ru/getting_started_build_tools.md) (есть битая ссылка)
+- [Основные элементы](https://github.com/qmk/qmk_firmware/blob/master/docs/ru-ru/getting_started_introduction.md) прошивки
+- [Установку инструментов](https://docs.qmk.fm/#/ru-ru/getting_started_build_tools) для сборки прошивки  [исх*](https://github.com/qmk/qmk_firmware/blob/master/docs/ru-ru/getting_started_build_tools.md) (есть битая ссылка)
   
 - [Основные понятия, которые используются в прошивке](https://golos.id/ru--kompxyutery/@irronyx/3-ponyatiinye-sosny-klaviaturnykh-proshivok)  
 - [Свойства слоёв в прошивке](https://github.com/oleg-rnd/qmk_firmware/blob/master/docs/ru-ru/feature_layers.md)  
-- [Часто возникающие вопросы в работе с раскладками](https://github.com/oleg-rnd/qmk_firmware/blob/master/docs/ru-ru/faq_keymap.md)
+- Часто возникающие [вопросы в работе с раскладками](https://github.com/oleg-rnd/qmk_firmware/blob/master/docs/ru-ru/faq_keymap.md)
 
-- [Применение кейкодов при переключении слоёв[EN]](https://docs.qmk.fm/#/feature_advanced_keycodes?id=switching-and-toggling-layers)  
-- [Более краткое описание установки и первоначальных настроек прошивки[RU]](https://docs.qmk.fm/#/ru-ru/newbs_getting_started) [исх*](https://github.com/qmk/qmk_firmware/blob/master/docs/ru-ru/newbs_getting_started.md)  (битая ссылка)
+- [Применение кейкодов при переключении слоёв](https://docs.qmk.fm/#/feature_advanced_keycodes?id=switching-and-toggling-layers) [EN] 
+- Более [краткое описание установки](https://docs.qmk.fm/#/ru-ru/newbs_getting_started) и первоначальных настроек прошивки[RU]   [исх*](https://github.com/qmk/qmk_firmware/blob/master/docs/ru-ru/newbs_getting_started.md)  (есть битая ссылка)
 
 
-Ещё одна, дополненная версия документации [EN] - [beta.docs.qmk.fm](https://beta.docs.qmk.fm/)  
+Ещё одна, дополненная версия документации на QMK [EN] - [beta.docs.qmk.fm](https://beta.docs.qmk.fm/)  
 
-[Общее **EN**-wiki по механическим клавиатурам](https://deskthority.net/wiki/Main_Page) 
+[Общее **EN-Wiki** по механическим клавиатурам](https://deskthority.net/wiki/Main_Page)  
+
