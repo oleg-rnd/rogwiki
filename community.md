@@ -5,8 +5,7 @@
 [ВК](https://vk.com/klavaorg) [Telegram](https://telegram.me/klavaorgwork) [GitHab](https://github.com/klavarog)
 
 **МехКульт** – те, кто восновном покупает
-
-т.е. собрано много инфы, где, и что можно купить  
+(т.е. собрано много инфы, где, и что можно купить)  
 [сайт](https://rumech.guide), [его версия в GitHab](https://github.com/Flumeded/ru_mech/tree/master/docs), [Discord](https://discord.com/channels/667761489872158729/667769841272356866)  
 ! НО тоже написали про [краткие основы QMK!](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md)
  
@@ -15,4 +14,4 @@
 
 [**Deskthority**](https://deskthority.net/)** – Европейский форум о механических клавиатурах, с огромным разделом Workshop о тнокостях разработки
 
-Про механические клавиатуры на [**reddit**](https://www.reddit.com/r/MechanicalKeyboards/)
+Ветка про все механические клавиатуры на [**reddit**](https://www.reddit.com/r/MechanicalKeyboards/)
