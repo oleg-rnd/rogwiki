@@ -1,13 +1,13 @@
 
 ## Сообщества
 
-**Klava.org** – те, кто восновном делает сам&#10
+**Klava.org** – те, кто восновном делает сам  
 [ВК](https://vk.com/klavaorg) [Telegram](https://telegram.me/klavaorgwork) [GitHab](https://github.com/klavarog)
 
 **МехКульт** – те, кто восновном покупает
 
-т.е. собрано много инфы, где, и что можно купить&#10
-[сайт](https://rumech.guide) [его версия в GitHab](https://github.com/Flumeded/ru_mech/tree/master/docs) [Discord](https://discord.com/channels/667761489872158729/667769841272356866)&#10
+т.е. собрано много инфы, где, и что можно купить  
+[сайт](https://rumech.guide) [его версия в GitHab](https://github.com/Flumeded/ru_mech/tree/master/docs) [Discord](https://discord.com/channels/667761489872158729/667769841272356866)&#10)  
 [+ краткие основы QMK, пример с 9key](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md)
  
    
