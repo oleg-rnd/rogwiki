@@ -8,11 +8,11 @@
 
 т.е. собрано много инфы, где, и что можно купить  
 [сайт](https://rumech.guide), [его версия в GitHab](https://github.com/Flumeded/ru_mech/tree/master/docs), [Discord](https://discord.com/channels/667761489872158729/667769841272356866)  
-! но, тоже написали про [краткие основы QMK!](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md)
+! НО тоже написали про [краткие основы QMK!](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md)
  
    
 [**Geekhack**](https://geekhack.org/)** – Американский форум энтузиастов клавиатур
 
 [**Deskthority**](https://deskthority.net/)** – Европейский форум о механических клавиатурах, с огромным разделом Workshop о тнокостях разработки
 
-на [**reddit**](https://www.reddit.com/r/MechanicalKeyboards/)
+Про механические клавиатуры на [**reddit**](https://www.reddit.com/r/MechanicalKeyboards/)
