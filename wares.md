@@ -1,12 +1,12 @@
 ## Прошивки
 
 ### [QMK](https://github.com/oleg-rnd/rogwiki/tree/main/Firmwares/QMK.md)  
-наиболее известная и часто используемая прошивка
+наиболее известная и часто используемая прошивка  
 [GitHub](https://github.com/jackhumbert/qmk_firmware) 
 
 ### TMK
 предшественница QMK  
-(https://github.com/tmk/tmk_core)
+[GitHub](https://github.com/tmk/tmk_core)
 
 ### [Keyberon](https://github.com/TeXitoi/keyberon)  
 альтернативная прошивка, созданная на языке Rast
