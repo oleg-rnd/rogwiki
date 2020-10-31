@@ -4,10 +4,11 @@
 
 [kKeyb](https://github.com/Steve-Key/QMK_kKeyb19/blob/master/Images/DSCN0970_.jpg)  — монолитный в настоящем исполнении, эргономичный 60% сплит, сделанный Steve-Key [Репо](https://github.com/Steve-Key/QMK_kKeyb19)
 
-[Клавиатура](https://xlink.dom/) — Описание клавиатуры на понятном языке, с внешней ссылкой. 2-3 предложениия [Репо-link](https://github.com/username/keyboardname)
+[Клавиатура](https://x-link.dom/) — Описание клавиатуры на понятном языке, с внешней ссылкой. 2-3 предложениия [Репо-link](https://github.com/username/keyboardname)
 
-[Другая клавиатура](Keyboards/x16/x16.md) — Описание клавиатуры на понятном языке со ссылкой внутри wiki — Keyboards/projectname/name.md. 2-3 предложениия. 
-
+[Другая клавиатура](Keyboards/x/x.md) — Описание клавиатуры на понятном языке со ссылкой внутри wiki — Keyboards/projectname/name.md. 2-3 предложениия. 
+  
+....
 
 ## Эксперементальные
 
@@ -18,8 +19,9 @@
 
 [Волькина №1](Keyboards/№1/№1.md) — Описание клавиатуры на понятном языке со ссылкой внутри wiki — Keyboards/projectname/name.md. 2-3 предложениия. 
 
-[Волькина №2](Keyboards/№1/№1.md) — Описание клавиатуры на понятном языке со ссылкой внутри wiki — Keyboards/projectname/name.md. 2-3 предложениия. 
+[Волькина №2](Keyboards/№2/№2.md) — Описание клавиатуры на понятном языке со ссылкой внутри wiki — Keyboards/projectname/name.md. 2-3 предложениия. 
  
+...
 
 ### Экранные
 
@@ -29,6 +31,7 @@
 
 [t31](https://irronyx.store/t31) — Прототип экранной слайдерной клавиатуры для планшетов. 
 
+...
 
 ## Концепты  
 
@@ -39,6 +42,7 @@
 
 [Другая клавиатура](Keyboards/x16/x16.md) — Описание клавиатуры на понятном языке со ссылкой внутри wiki — Keyboards/projectname/name.md. 2-3 предложениия. 
   
+ ... 
   
 ### Экранные
 
@@ -46,6 +50,7 @@
 
 [Другая клавиатура](Keyboards/x16/x16.md) — Описание клавиатуры на понятном языке со ссылкой внутри wiki — Keyboards/projectname/name.md. 2-3 предложениия. 
 
+...
 
 ---
 
