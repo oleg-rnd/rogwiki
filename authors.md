@@ -10,4 +10,6 @@
 
 **[O1af](Autors/.md)**
 
-**[Kanazei](Autors/.md)**
+**[Kanazei](Autors/.md)**  
+
+и другие официальные лица..
