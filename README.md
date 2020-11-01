@@ -18,4 +18,4 @@ Wiki for klava.org community
 ## [Наполнение Wiki!](wikifulling.md)  
 
 ## [Словарь](Articles/Glossary.md)  
-
+  
