@@ -1,5 +1,7 @@
 ## Авторы
 
+**[Образец статьи про автора](Authors/Author_article_tmpl.md)**
+
 **[volka](Autors/.md)**
 
 **[optozorax](Autors/.md)**
