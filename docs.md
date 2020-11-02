@@ -4,7 +4,7 @@
 
 [Сводное описание возможностей, свойств и механизмов работы QMK](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md), плюс кракое руководство, by Flumeded.
 
-- [Основные элементы прошивки](https://github.com/qmk/qmk_firmware/blob/master/docs/ru-ru/getting_started_introduction.md)  
+- [Из чего состоит прошивка](https://github.com/qmk/qmk_firmware/blob/master/docs/ru-ru/getting_started_introduction.md)  
 - [Инструменты для сборки прошивки](https://docs.qmk.fm/#/ru-ru/getting_started_build_tools)
   
 - [Основные понятия, которые используются в прошивке](https://golos.id/ru--kompxyutery/@irronyx/3-ponyatiinye-sosny-klaviaturnykh-proshivok)  
