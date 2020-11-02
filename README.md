@@ -11,7 +11,7 @@ Wiki for klava.org community
 
 ## [Прошивки и контроллеры](wares.md)
 
-## [Компаненты](companents.md)
+## [Компоненты](components.md)
 
 ---
  
