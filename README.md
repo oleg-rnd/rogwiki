@@ -3,6 +3,8 @@ Wiki for klava.org community
 
 ## [Клавиатуры](keyboards.md)
 
+## [Раскладки](layouts.md)
+
 ## [Авторы](authors.md)
 
 ## [Документация](docs.md)
