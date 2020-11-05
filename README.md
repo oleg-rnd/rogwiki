@@ -13,6 +13,8 @@ Wiki for klava.org community
 
 ## [Прошивки и контроллеры](wares.md)
 
+## ["Инструменты"](tools.md)
+
 ## [Компоненты](components.md)
 
 ---
