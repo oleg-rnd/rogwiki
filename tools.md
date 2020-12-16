@@ -14,7 +14,7 @@
 ### Библиотеки от сообщества klava.org:
 
 
-**[rusmap.h](https://github.com/optozorax/moonlander/tree/master/lang_shift)** – библиотека для русификации прошивки by optozorax 
+**[lang_shift](https://github.com/optozorax/moonlander/tree/master/lang_shift)** – библиотека для русификации прошивки by optozorax 
 [инфо](https://github.com/klavarog/qmk_bonus/blob/master/doc/rusmap.h.ru.md)
 
 **[rusmap.h](https://github.com/klavarog/qmk_bonus/blob/master/rusmap.h)** – более ранняя работа для более удобной русификации прошивки by optozorax 
